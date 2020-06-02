@@ -1,3 +1,7 @@
 Autor: Marián Popadák
 Nazov: Clanok 1
 Datum: 31.5.2020
+----
+The players will have to experience living in the skin 
+of one of the mercenaries who survived the initial stage 
+of the Tarkov conflict.
