@@ -5,3 +5,7 @@ Datum: 31.5.2020
 The players will have to experience living in the skin 
 of one of the mercenaries who survived the initial stage 
 of the Tarkov conflict.
+----
+After choosing one of the sides – USEC or 
+BEAR – the player’s character starts to make 
+his way out of the city.
