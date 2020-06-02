@@ -6,6 +6,7 @@ Escape from Tarkov is a hardcore and realistic online
 first-person action RPG/Simulator with MMO features and 
 a story-driven walkthrough.
 ----
-With each passing day the situation in the Norvinsk 
-region grows more and more complicated. Incessant warfare in 
-Tarkov has sparked massive panic; 
+After choosing one of the sides – USEC or 
+BEAR – the player’s character starts to make 
+his way out of the city.
+
