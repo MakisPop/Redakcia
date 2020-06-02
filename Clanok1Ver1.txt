@@ -1,0 +1,15 @@
+Autor: Marián Popadák
+Nazov: Clanok 1
+Datum: 31.5.2020
+----
+Escape from Tarkov is a hardcore and realistic online 
+person-first action Simulator/RPG with MMO features and 
+a driven-story walkthrough.
+----
+With each passing day the situation in the Norvinsk 
+region grows more and more complicated. Incessant warfare in 
+Tarkov has sparked massive panic; 
+----
+Tarkov is sealed off by UN and Russian military, 
+supply chains are cut, communication with operational 
+command is lost.
